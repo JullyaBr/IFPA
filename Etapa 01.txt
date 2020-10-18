@@ -1,0 +1,5 @@
+Etapa 01 (2 pontos)
+a)   Análise de Viabilidade do projeto (utilizando Mapa Mental); Juliana Galhardi Martins
+b)   Levantamento de Requisitos (utilizando Mapa Mental); Juliana Galhardi Martins
+c)    Análise de Requisitos com o diagrama de casos de uso Juliana Galhardi Martins
+d)   Projeto de Interface Felipe
